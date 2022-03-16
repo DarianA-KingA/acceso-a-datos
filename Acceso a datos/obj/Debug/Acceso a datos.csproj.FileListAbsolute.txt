@@ -1,0 +1,12 @@
+C:\Users\Darian\source\repos\Acceso a datos\Acceso a datos\bin\Debug\Acceso a datos.exe.config
+C:\Users\Darian\source\repos\Acceso a datos\Acceso a datos\bin\Debug\Acceso a datos.exe
+C:\Users\Darian\source\repos\Acceso a datos\Acceso a datos\bin\Debug\Acceso a datos.pdb
+C:\Users\Darian\source\repos\Acceso a datos\Acceso a datos\bin\Debug\Bunifu_UI_v1.52.dll
+C:\Users\Darian\source\repos\Acceso a datos\Acceso a datos\obj\Debug\Acceso a datos.csproj.AssemblyReference.cache
+C:\Users\Darian\source\repos\Acceso a datos\Acceso a datos\obj\Debug\Acceso_a_datos.Form1.resources
+C:\Users\Darian\source\repos\Acceso a datos\Acceso a datos\obj\Debug\Acceso_a_datos.Properties.Resources.resources
+C:\Users\Darian\source\repos\Acceso a datos\Acceso a datos\obj\Debug\Acceso a datos.csproj.GenerateResource.cache
+C:\Users\Darian\source\repos\Acceso a datos\Acceso a datos\obj\Debug\Acceso a datos.csproj.CoreCompileInputs.cache
+C:\Users\Darian\source\repos\Acceso a datos\Acceso a datos\obj\Debug\Acceso a datos.csproj.CopyComplete
+C:\Users\Darian\source\repos\Acceso a datos\Acceso a datos\obj\Debug\Acceso a datos.exe
+C:\Users\Darian\source\repos\Acceso a datos\Acceso a datos\obj\Debug\Acceso a datos.pdb
